@@ -7,7 +7,7 @@ import {
 } from '@modelcontextprotocol/sdk/types.js';
 import axios from 'axios';
 
-const API_KEY = '0986c1db003112a75d56df4951677b882a22088f9b3cc6a2ce6dc71953c90bb0';
+const API_KEY = '';
 
 class TallyGovernanceServer {
   private server: Server;
